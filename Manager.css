@@ -1,0 +1,22 @@
+body {
+    margin: 0;   
+    background-color: bisque; 
+}
+
+.heading{
+    text-align-last: left;
+    padding-block: 10%;
+    background-color: rgb(2, 253, 253);
+    border-style: outset;
+    font-size: 100px;
+    border:10px solid Tomato;
+}
+
+.nevigation{
+    text-align-last: left;
+    padding-block: 10%;
+    background-color: aqua;
+    border-style: outset;
+    font-size: 100px;
+}
+

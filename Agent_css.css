@@ -1,0 +1,94 @@
+body {
+    margin: 0;   
+    background-color: rgb(233, 218, 200); 
+}
+
+.heading{
+    text-align-last: left;
+    padding-block: 10%;
+    background-color: aqua;
+    border-style: none;
+    font-size: 100px;
+    border:10px solid Tomato;
+}
+
+.a{
+    text-align-last: left;
+    padding-block: 10%;
+    background-color: aqua;
+    border-style: outset;
+    font-size: 100px;
+    border:10px solid Tomato;
+}
+
+* {
+    text-align-last: left;
+    padding-block: 10%;
+    background-color: aqua;
+    border-style: outset;
+    font-size: 100px;
+}
+
+.nevigation{
+    background-color: cornflowerblue;
+    border-style: double;
+    padding: 1%;
+    font-size-adjust: 0.59;
+}
+
+.viewForm{
+    background-color: aquamarine;
+    text-align-last: left;
+    border-style: outset;
+    display: none;    
+}
+
+.uppage{
+    background-color: cornflowerblue;
+    border-style: double;
+    padding: 1%;
+    font-size-adjust: 0.59;
+}
+.agent_detail1{
+    color: black;
+    font-size-adjust: 2.11;
+    
+}
+.sellbut{
+    background-color: darkgreen;
+    border-top: black;
+    border-bottom: black;
+    border-left: black;
+    border-right: black;
+    border-width: 1cm;
+}
+.customerbut{
+    background-color: white;
+    border-top: black;
+    border-bottom: black;
+    border-left: black;
+    border-right: black;
+    border-width: 1cm;
+}
+.bodypageseller{
+    background-color: cadetblue;
+    border-style: double;
+    padding: 1%;
+    display: none;
+}
+.bodypagebuyer{
+    background-color: cadetblue;
+    border-style: double;
+    padding: 1%;
+    display: none;
+}
+
+.bottompage{
+    background-color: cadetblue;
+    border-style: double;
+    padding: 1%;
+}
+.panal{
+    display: none;
+    
+}
